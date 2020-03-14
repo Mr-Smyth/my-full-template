@@ -2,7 +2,7 @@
 
 ## Learning is for life. . .
 
-This is my very first effort at a Readme.md. I hope to look back on this in the comming weeks, months and years and be in awe of how simplistic and ineffective it is. But for now i am going to do my best to comment on a little project that details the list of Technologies that i am currently learning at Code Institute. I Love Learning, and Learning really is for life...
+This is my very first effort at a Readme.md. I hope to look back on this in the coming weeks, months and years and be in awe of how simplistic and ineffective it is. But for now i am going to do my best to comment on a little project that details the list of Technologies that i am currently learning at Code Institute. I Love Learning, and Learning really is for life...
 
 ## WHat does this site do?
 
