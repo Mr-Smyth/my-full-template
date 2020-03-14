@@ -1,35 +1,34 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# Technologies I am Learning
 
-Welcome Eamonn Smyth,
+## Learning is for life. . .
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+This is my very first effort at a Readme.md. I hope to look back on this in the comming weeks, months and years and be in awe of how simplistic and ineffective it is. But for now i am going to do my best to comment on a little project that details the list of Technologies that i am currently learning at Code Institute. I Love Learning, and Learning really is for life...
 
-## Gitpod Reminders
+## WHat does this site do?
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This Technologies site lists the technologies and Languages i m currently learning at Code Institute.
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Expose*,
+## What Technologies were used to build it?
 
-Another blue button should appear to click: *Open Browser*.
+I used HTML5 to layout the structure of the page, with a nav element to contain the site navigation menus, located at the top of the screen.
+I then stored each technology within a div card.
+I used GitPod as my editor, obviously then pushing up to GitHub.
+A Bash Terminal was used, to run various commands and perform Git Interactions.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## What other sources were used?
 
-A blue button should appear to click: *Expose*,
+The images were gained via a google search, and, as this was a practice site, i hot linked to the images for now.
+I do howere intend reworking this into a cv site where i will use imgur for my images.
+Each of the links also link back to Wikepedia for more information.
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+## What skills were practiced in this project?
 
-## Updates Since The Instructional Video
+I believe that the HTML and CSS coding was just cementing work done, and as practice is the homework of genious, its time well spent.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+## What did i learn?
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+Gained a good knowledge and level of comfort with Bash Terminal interactions.
+Gained more of an understanding of GitHub, and a greater confidence pull and pushing from varios sources.
+Gained greater confidence and understanding with HTML and CSS.
